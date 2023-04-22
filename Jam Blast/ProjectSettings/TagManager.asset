@@ -39,14 +39,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Shadows, outline
+    uniqueID: 1122321661
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Background
     uniqueID: 857734207
-    locked: 0
-  - name: Shadows, outline
-    uniqueID: 1122321661
     locked: 0
   - name: Midground 1
     uniqueID: 3720036955

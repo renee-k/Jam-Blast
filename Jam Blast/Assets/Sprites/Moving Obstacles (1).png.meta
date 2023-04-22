@@ -45,7 +45,7 @@ TextureImporter:
       213: 1361454315762017661
     second: Moving Obstacles (1)_13
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -66,6 +66,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,6 +105,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -143,6 +145,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -460,6 +486,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Moving Obstacles (1)_0: -3615048677896634677
+      Moving Obstacles (1)_1: 6244785751338147190
+      Moving Obstacles (1)_10: -5186357584766993324
+      Moving Obstacles (1)_11: 503120628318089728
+      Moving Obstacles (1)_12: 3091794261489961760
+      Moving Obstacles (1)_13: 1361454315762017661
+      Moving Obstacles (1)_2: -5904130438683359762
+      Moving Obstacles (1)_3: 1871373143316489494
+      Moving Obstacles (1)_4: 5688486484230448352
+      Moving Obstacles (1)_5: 8089788817019917918
+      Moving Obstacles (1)_6: -8985169289268128266
+      Moving Obstacles (1)_7: -952337439905307776
+      Moving Obstacles (1)_8: 2295890205279313419
+      Moving Obstacles (1)_9: -8638482250111795346
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
