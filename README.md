@@ -1,5 +1,5 @@
 # Jam Blast
-Jam Blast is a game made with Unity during the pandemic, inspired by flappy bird.
+Jam Blast is a game for Windows, Mac, and Linux made with Unity during the pandemic, inspired by Flappy Bird.
 
 
 ## Credits
